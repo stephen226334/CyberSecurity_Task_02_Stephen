@@ -1,0 +1,255 @@
+CYBER SECURITY TASK 02: CIA TRIAD & RISK ASSESSMENT
+
+Name: Stephen J
+Date: June 2026
+
+______________________________________________________________
+PART A: UNDERSTANDING THE CIA TRIAD
+______________________________________________________________
+
+1. CONFIDENTIALITY
+
+Definition:
+• Confidentiality means protecting information from unauthorized access.
+
+Why It Is Important:
+• Keeps sensitive information private.
+• Prevents data theft and information leakage.
+• Ensures only authorized users can access data.
+
+Real-World Example:
+• Online banking systems use usernames and passwords to protect customer information.
+
+---
+
+2. INTEGRITY
+
+Definition:
+• Integrity means maintaining the accuracy and consistency of data.
+
+Why It Is Important:
+• Prevents unauthorized changes to information.
+• Ensures data remains trustworthy and accurate.
+• Protects records from being altered.
+
+Real-World Example:
+• Student examination results should not be modified without proper authorization.
+
+---
+
+3. AVAILABILITY
+
+Definition:
+• Availability means ensuring systems and data are accessible whenever needed.
+
+Why It Is Important:
+• Allows users to access services without interruption.
+• Supports continuous business and educational operations.
+• Reduces downtime and service disruptions.
+
+Real-World Example:
+• A college website should remain accessible during admissions and examinations.
+
+---
+
+CIA TRIAD COMPARISON TABLE
+
+| Principle       | Definition                                 | Importance                   | Example             |
+| --------------- | ------------------------------------------ | ---------------------------- | ------------------- |
+| Confidentiality | Protects data from unauthorized access     | Keeps information private    | Online Banking      |
+| Integrity       | Maintains accuracy and consistency of data | Prevents data tampering      | Examination Results |
+| Availability    | Ensures access to systems and information  | Supports continuous services | College Website     |
+
+______________________________________________________________
+PART B: REAL-WORLD CASE STUDY
+______________________________________________________________
+
+CASE STUDY: WANNACRY RANSOMWARE ATTACK
+
+What Happened?
+• WannaCry was a ransomware attack that occurred in 2017.
+• It spread rapidly across the world by exploiting a Windows vulnerability.
+• The malware encrypted files and demanded payment to restore access.
+
+Which Part of the CIA Triad Was Affected?
+• Availability
+
+Impact:
+• Thousands of computers were infected.
+• Hospitals, businesses, and government organizations experienced disruptions.
+• Important files became inaccessible.
+• Significant financial losses occurred.
+
+How Could It Have Been Prevented?
+• Install security updates regularly.
+• Use reliable antivirus software.
+• Maintain regular backups.
+• Provide cybersecurity awareness training.
+
+______________________________________________________________
+PART C: RISK ASSESSMENT ACTIVITY
+______________________________________________________________
+Risk Assessment Table for a College
+
+| Asset                  | Threat                    | Impact | Risk Level |
+| ---------------------- | ------------------------- | ------ | ---------- |
+| Student Records        | Data Breach               | High   | High       |              
+| Examination Data       | Unauthorized Modification | High   | High       |
+| College Website        | DDoS Attack               | Medium | Medium     |
+| Faculty Information    | Data Theft                | High   | High       |
+| Network Infrastructure | Malware Infection         | High   | High       |
+
+______________________________________________________________
+PART D: THREAT IDENTIFICATION
+______________________________________________________________
+1. INSIDER THREAT
+
+Description:
+• A threat caused by employees or authorized users who misuse their access privileges.
+
+Possible Impact:
+• Data theft.
+• Information leakage.
+• Financial loss.
+
+Prevention Methods:
+• Implement access controls.
+• Monitor user activities.
+• Conduct security awareness training.
+
+---
+
+2. MALWARE
+
+Description:
+• Malicious software designed to damage systems or steal information.
+
+Possible Impact:
+• Data loss.
+• System failure.
+• Unauthorized access.
+
+Prevention Methods:
+• Install antivirus software.
+• Keep systems updated.
+• Avoid downloading files from untrusted sources.
+
+---
+
+3. PHISHING
+
+Description:
+• Fraudulent emails or websites used to trick users into revealing sensitive information.
+
+Possible Impact:
+• Password theft.
+• Financial fraud.
+• Data breaches.
+
+Prevention Methods:
+• Train users to recognize phishing attempts.
+• Use email filtering solutions.
+• Verify suspicious messages before responding.
+
+---
+
+4. WEAK PASSWORDS
+
+Description:
+• Passwords that are easy to guess or crack.
+
+Possible Impact:
+• Unauthorized account access.
+• Data compromise.
+
+Prevention Methods:
+• Use strong passwords.
+• Enable Multi-Factor Authentication (MFA).
+• Change passwords regularly.
+
+---
+
+5. UNPATCHED SYSTEMS
+
+Description:
+• Systems that have not received the latest security updates.
+
+Possible Impact:
+• Exploitation of known vulnerabilities.
+• Malware infections.
+• System compromise.
+
+Prevention Methods:
+• Perform regular updates.
+• Enable automatic patching.
+• Conduct vulnerability assessments.
+
+______________________________________________________________
+PART E: SECURITY RECOMMENDATIONS
+______________________________________________________________
+
+1. Enable Multi-Factor Authentication (MFA)
+   • Adds an extra layer of security beyond passwords.
+
+2. Use Strong Password Policies
+   • Reduces the risk of unauthorized access.
+
+3. Perform Regular Software Updates
+   • Fixes security vulnerabilities.
+
+4. Install Antivirus Software
+   • Detects and removes malicious software.
+
+5. Conduct Security Awareness Training
+   • Helps users identify cyber threats.
+
+6. Perform Regular Data Backups
+   • Enables recovery after cyber incidents.
+
+7. Encrypt Sensitive Data
+   • Protects confidential information from unauthorized access.
+
+8. Restrict User Access
+   • Ensures users only access necessary resources.
+
+9. Monitor Network Activity
+   • Helps detect suspicious behavior early.
+
+10. Create an Incident Response Plan
+    • Improves response and recovery during security incidents.
+
+______________________________________________________________
+PART F: MINI SECURITY CONSULTANT REPORT
+______________________________________________________________
+
+CYBERSECURITY IMPROVEMENT REPORT FOR COLLEGE
+
+Top 5 Risks:
+• Student Data Breaches
+• Malware Infections
+• Phishing Attacks
+• Weak Passwords
+• Unpatched Systems
+
+---
+
+Top 5 Recommendations:
+• Enable Multi-Factor Authentication
+• Implement Strong Password Policies
+• Conduct Regular Software Updates
+• Provide Security Awareness Training
+• Maintain Regular Data Backups
+
+---
+
+Expected Benefits:
+• Better protection of student and faculty data.
+• Reduced risk of cyberattacks.
+• Improved system reliability.
+• Faster recovery from security incidents.
+• Increased trust in the college's IT infrastructure.
+
+---
+
+Conclusion:
+The college can significantly improve its cybersecurity posture by implementing strong security controls, educating users about cyber threats, and maintaining secure systems. These measures will help reduce risks, protect critical assets, and ensure the safe operation of college services.
